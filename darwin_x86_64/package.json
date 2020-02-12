@@ -1,0 +1,7 @@
+{
+    "description": "GNU AArch64 bare-metal target toolchain",
+    "name": "toolchain-aarch64",
+    "system": ["darwin_x86_64"],
+    "url": "https://github.com/SergioBenitez/homebrew-osxct",
+    "version": "0.1.20171128"
+}
